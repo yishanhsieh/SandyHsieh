@@ -7,14 +7,21 @@ You can use the [editor on GitHub](https://github.com/yishanhsieh/sandy.github.i
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+<img src="https://finland.fi/wp-content/uploads/2015/05/2391-sjansson1-jpg.jpg">
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+<img src="https://finland.fi/wp-content/uploads/2015/05/2391-sjansson1-jpg.jpg"> 你好| <img src="https://finland.fi/wp-content/uploads/2015/05/2391-sjansson1-jpg.jpg"> 你好
+------------ | -------------
+<img src="https://finland.fi/wp-content/uploads/2015/05/2391-sjansson1-jpg.jpg"> | <img src="https://finland.fi/wp-content/uploads/2015/05/2391-sjansson1-jpg.jpg">
+Content in the first column | Content in the second column
+
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# Header 1 
 ## Header 2
 ### Header 3
 
