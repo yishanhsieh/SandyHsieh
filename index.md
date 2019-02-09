@@ -1,6 +1,6 @@
 ### [Resume](https://github.com/yishanhsieh/sandy.github.io/edit/master/index.md)
 ## Welcome to Sandy Hsieh's Page
-
+### [Resume](https://github.com/yishanhsieh/sandy.github.io/edit/master/index.md)
 I live in Taipei, Taiwan. I am a graduate student majoring Library and Information Science.
 
 You can use the [editor on GitHub](https://github.com/yishanhsieh/sandy.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
