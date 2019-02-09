@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Sandy Hsieh's Page
+
+I live in Taipei, Taiwan. I am a graduate student majoring Library and Information Science.
 
 You can use the [editor on GitHub](https://github.com/yishanhsieh/sandy.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
