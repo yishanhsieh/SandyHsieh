@@ -1,3 +1,4 @@
+### [Resume](https://github.com/yishanhsieh/sandy.github.io/edit/master/index.md)
 ## Welcome to Sandy Hsieh's Page
 
 I live in Taipei, Taiwan. I am a graduate student majoring Library and Information Science.
