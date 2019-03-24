@@ -307,6 +307,7 @@ a.active {
 
 .about-img-div img {
     margin: 0 auto;
+    vertical-align:text-top;
 }
 
 .about-border {
