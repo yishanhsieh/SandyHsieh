@@ -307,8 +307,9 @@ a.active {
 
 .about-img-div img {
     margin: 0 auto;
-    vertical-align:text-top;
-    display:inline-block
+    top: 40px;
+    left: 50px;
+
 }
 
 .about-border {
