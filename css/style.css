@@ -37,13 +37,13 @@ font-family: 'Open Sans', sans-serif;
 ==================================================*/
 
 h1 {
-    font-family: 'Playfair Display', serif;
+    font-family: 'Playfair Display',"微軟正黑體", serif;
     font-size: 80px;
     line-height: 70px;
 }
 
 h4 {
-    font-family: 'Lato', sans-serif;
+    font-family: 'Lato',"微軟正黑體", sans-serif;
     text-transform: capitalize;
     letter-spacing: 2px;
     position: relative;
@@ -68,7 +68,7 @@ h4:before {
 ==================================================*/
 
 body {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Open Sans',"微軟正黑體", sans-serif;
     font-size: 14px;
     line-height: 24px;
 }
@@ -622,14 +622,14 @@ a.active {
 }
 
 .modal-content h2 {
-    font-family: 'Playfair Display', serif;
+    font-family: 'Playfair Display',"微軟正黑體", serif;
     font-size: 40px;
     line-height: 50px;
 }
 
 
 /* contact
-==================================================*/
+
 
 #contact {
     padding: 100px 0;
@@ -756,9 +756,10 @@ fieldset {
     color: #425BB5;
 }
 
+==================================================*/
 
 /* Responsive media queries
-==================================================*/
+
 
 @media (max-width: 991px) {
     .portfolio .categories-grid .categories ul li a {
@@ -800,3 +801,4 @@ fieldset {
         font-size: 10px;
     }
 }
+==================================================*/
