@@ -609,7 +609,7 @@ a.active {
     float: right;
     margin: 20px;
     font-size: 22px;
-    opacity: 0;
+    opacity: 1;
     cursor: pointer;
     -webkit-transition: all .3s;
     transition: all .3s;
@@ -623,6 +623,9 @@ a.active {
 .animatedModal-on .close-popup-modal {
     opacity: 1;
 }
+
+
+
 
 .modal-content h2 {
     font-family: 'Playfair Display',"微軟正黑體", serif;
