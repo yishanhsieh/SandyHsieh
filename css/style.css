@@ -348,7 +348,7 @@ a.active {
 .experience-row p {
     color: #888;
     margin-top: 20px;
-    font-size: 15px;
+    font-size: 20px;
 }
 
 .experience-row .date {
@@ -597,7 +597,7 @@ a.active {
 }
 
 .modal-content {
-    box-shadow: 0 5px 15px rgba(0, 0, 0, 0);
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0);
     border: none;
 }
 
@@ -609,7 +609,7 @@ a.active {
     float: right;
     margin: 20px;
     font-size: 22px;
-    opacity: 0;
+    opacity: 1;
     cursor: pointer;
     -webkit-transition: all .3s;
     transition: all .3s;
